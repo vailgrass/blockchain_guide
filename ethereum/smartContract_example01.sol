@@ -1,4 +1,4 @@
- //A example of "Hello World!" for Ethereum
+ //An example of "Hello World!" for Ethereum
  contract mortal {
      /* Define variable owner of the type address*/
      address owner;
